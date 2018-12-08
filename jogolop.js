@@ -178,7 +178,7 @@ if (keyIsDown(LEFT_ARROW))
     
     if(power){
       
-      soundpower.play(-2);
+      soundpower.play();
     
 
 
